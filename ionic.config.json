@@ -1,0 +1,7 @@
+{
+  "name": "angular-ionic-event-types",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
